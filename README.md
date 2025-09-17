@@ -45,7 +45,3 @@ This repository includes examples for:
 - Deployment workflows
 - Security scanning
 - Code quality checks
-
-## Contributing
-
-Feel free to add your own pipeline examples and improvements.
